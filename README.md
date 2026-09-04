@@ -1,4 +1,4 @@
-# 📄 AI Resume Analyzer
+<img width="847" height="402" alt="image" src="https://github.com/user-attachments/assets/5ad29e58-3603-41a2-8737-2045346ad0fc" /># 📄 AI Resume Analyzer
 
 An AI-powered Resume Analyzer that analyzes a resume based on a target job role and provides useful feedback for improving the resume.
 
@@ -41,12 +41,12 @@ Resume_analyzer/
 ├── .gitignore
 └── README.md
 
-## How to Run
+**## **How to Run
 
 ```bash
 pip install -r requirements.txt
 python resume_api.py
 Then open index.html in your browser.
 
-## 👨‍💻 Author
+**##** 👨‍💻 Author
 sukanya challagulla
