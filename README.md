@@ -40,6 +40,7 @@ Resume_analyzer/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 **## **How to Run
 
@@ -47,6 +48,7 @@ Resume_analyzer/
 pip install -r requirements.txt
 python resume_api.py
 Then open index.html in your browser.
+```
 
 **##** 👨‍💻 Author
 sukanya challagulla
