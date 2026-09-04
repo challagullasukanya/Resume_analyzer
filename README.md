@@ -42,7 +42,7 @@ Resume_analyzer/
 └── README.md
 ```
 
-**## **How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
@@ -50,5 +50,6 @@ python resume_api.py
 Then open index.html in your browser.
 ```
 
-**##** 👨‍💻 Author
+##👨‍💻 Author
+```
 sukanya challagulla
